@@ -30,6 +30,7 @@ requirements:
     - python
     - setuptools <61
     - numpy
+    - meson-python
     - six
     - {{ mpi }}
   run:
